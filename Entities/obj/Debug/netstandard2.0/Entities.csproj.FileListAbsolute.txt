@@ -1,0 +1,12 @@
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

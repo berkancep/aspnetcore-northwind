@@ -1,0 +1,14 @@
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\udemy\engin_demirog_netcore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
